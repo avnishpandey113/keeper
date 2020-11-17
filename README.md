@@ -1,8 +1,5 @@
 ## Project title
-Newsletter signup web application
-
-## Motivation
-This app is built for the users who want to recieve the newsletter sent by the developer/s for updated technological trends.
+Google keep clone as web application
 
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
